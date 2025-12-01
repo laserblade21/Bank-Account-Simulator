@@ -23,7 +23,7 @@ bank-account-simulator/
 - Apply monthly interest for savings accounts.
 - Append all operations to `transactions.txt` with timestamps for easy auditing.
 
-## Getting Started
+## Getting started 
 
 1. **Compile the source files**
 
